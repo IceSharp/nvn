@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[鸡毛蒜皮的一些记录]]></title>
+    <url>%2F2019%2F05%2F09%2Frecently-status%2F</url>
+    <content type="text"><![CDATA[总有几个星期就有人跳槽的消息，也总有人在怂恿你赶紧离开。自己也想赶紧离开，但是现在的社会，没有内推，根本没有靠谱的岗位。有的人是怀着对现在公司的怨念，希望公司的人都走光。有的人是随口应和着问你，怎么还不离开。 自己也一直在思考现在的处境如何应对。]]></content>
+      <tags>
+        <tag>琐碎</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F05%2F07%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
