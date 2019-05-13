@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[即将面临人生新的阶段]]></title>
+    <url>%2F2019%2F05%2F12%2FThe-New-Stage-of-Life%2F</url>
+    <content type="text"><![CDATA[让你选择的机遇总是那么不期而遇，等待新生的日子同样让人抓肝挠肺。也许是心里千百次的推演，在可能降临之时，就会义无反顾的冲上去。也许是太多人的离开，侧面的在冲击着你的防守。或许我的防守早已决堤，只不过在等待着压死骆驼的最后一根稻草。这一次影响自己未来十年，乃至人生路线的抉择。似乎已是水到渠成之事，或者说是无奈之下的选择。突然感觉“混日子”是需要多么大的毅力和勇气才能做出了的事情。]]></content>
+      <tags>
+        <tag>生而为人</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F05%2F09%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[鸡毛蒜皮的一些记录]]></title>
     <url>%2F2019%2F05%2F09%2Frecently-status%2F</url>
     <content type="text"><![CDATA[总有几个星期就有人跳槽的消息，也总有人在怂恿你赶紧离开。自己也想赶紧离开，但是现在的社会，没有内推，根本没有靠谱的岗位。有的人是怀着对现在公司的怨念，希望公司的人都走光。有的人是随口应和着问你，怎么还不离开。 自己也一直在思考现在的处境如何应对。当初有人说过，形势会逼你走。当初我还不行。认为有能力怕啥，现在清醒的撞了南墙。 当一个人没有了被依赖感，被孤立后，就会觉得没有意思。 如果实现了财富自由，哪这还真是挺享受的。但是不为了钱，谁上班呀。]]></content>
       <tags>
         <tag>琐碎</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F05%2F07%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
 </search>
